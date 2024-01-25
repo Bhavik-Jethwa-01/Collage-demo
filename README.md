@@ -1,4 +1,4 @@
 # Collage-demo
 This is my first git Repository.
 <br>
-Author - Bhavik Jethwa
+Author - Bhavik Jethwa (Server avatar)
